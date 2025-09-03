@@ -13,7 +13,7 @@ More details about the course can be found in the following link for Learning Ma
 
 > ## **Debugging**
 ### **GitBash with Conda is not working**
-If you are facing issues with GitBash and Conda, you can follow the following steps to fix the issue by clicking on the following link: [GitBash with Conda](./00_debugging/01_gitbash_working_now.md)
+If you are facing issues with GitBash and Conda, you can follow the following steps to fix the issue by clicking on the following link: [GitBash with Conda](./00_debugging_and_tips/01_gitbash_working_now.md)
 
 > ## **`Course Instructor:`**
 
