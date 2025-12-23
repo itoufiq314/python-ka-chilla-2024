@@ -60,7 +60,7 @@ Then you have to go to similar path similar to this accordin to your user name `
 > Note: Remember to use your own path.
 
 ```bash
-cd C:/Users/aammar/miniconda3/etc/profile.d
+cd C:/Users/<user_name>/miniconda3/etc/profile.d
 echo ". ${PWD}/conda.sh" >> ~/.bashrc
 ```
 
@@ -73,7 +73,18 @@ After running the above command, close GitBash and reopen it. Conda should now b
 
 Reopen the GitBash and run the following command to test that Conda is working correctly:
 
+
+After that check again by running:
+
 ```bash
+nano ~/.bashrc
+# read what you have added at the end of this file
+```
+
+```bash
+#open gitbash
+conda init bash
+# close and open gitbash again
 conda list
 ```
 
